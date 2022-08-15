@@ -1,7 +1,7 @@
 # OOPs With JAVA
 
 ### Some basic questions to clear the fundamentals of Object Oriented Programming in JAVA
-### Happy learning!!!
+### Happy learning !!!
 
 <br><br>
 
